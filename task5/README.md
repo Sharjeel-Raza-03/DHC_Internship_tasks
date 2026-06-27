@@ -1,6 +1,3 @@
-Copy this directly into your GitHub `README.md` file:
-
-````markdown
 # Mental Health Support Chatbot
 
 ## Project Overview
